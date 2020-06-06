@@ -16,7 +16,7 @@
   "license": "MIT",
   "dependencies": {
     "apollo-server": "^2.4.8",
-    "apollo-server-express": "^2.4.8",
+    "apollo-server-express": "^2.14.2",
     "bcrypt": "^3.0.5",
     "chess.js": "^0.10.2",
     "cors": "^2.8.5",
