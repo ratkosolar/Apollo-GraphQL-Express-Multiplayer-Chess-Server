@@ -27,7 +27,7 @@
     "graphql-resolvers": "^0.3.2",
     "jsonwebtoken": "^8.5.1",
     "mongodb": "^3.2.2",
-    "mongoose": "^5.4.20",
+    "mongoose": "^5.7.5",
     "morgan": "^1.9.1",
     "validator": "^10.11.0"
   },
