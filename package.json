@@ -15,7 +15,7 @@
   "author": "Ratko Solar <ratko.solar@gmail.com> (http://ratkosolar.com/)",
   "license": "MIT",
   "dependencies": {
-    "apollo-server": "^2.4.8",
+    "apollo-server": "^2.25.4",
     "apollo-server-express": "^2.4.8",
     "bcrypt": "^3.0.5",
     "chess.js": "^0.10.2",
